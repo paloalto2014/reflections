@@ -1,0 +1,7 @@
+How might using version control make you more confident to make changes that could break something?
+
+because I can always return to a version where things are not yet broken. also I can look up all the changes that let to the broken version and refactor them.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to see how diff works now
