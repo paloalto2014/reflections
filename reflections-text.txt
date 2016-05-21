@@ -5,3 +5,7 @@ because I can always return to a version where things are not yet broken. also I
 Now that you have your workspace set up, what do you want to try using Git for?
 
 I would like to see how diff works now
+
+check for remote git: $ git remote
+add a remote: $ git remote add 'name' 'git-url'
+push content to git: $ git push 'name' 'branch'
